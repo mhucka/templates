@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+'''
+FILENAME.py: DESCRIPTION
+
+Usage:
+   USAGE LINE
+
+DESCRIPTION
+'''
+
+__version__   = '0.0'
+__author__    = 'Michael Hucka <mhucka@caltech.edu>'
+__email__     = 'mhucka@caltech.edu'
+__copyright__ = 'Copyright (C) 2017 California Institute of Technology'
+__license__   = 'LICENSE'
